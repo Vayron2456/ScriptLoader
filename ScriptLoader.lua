@@ -7,7 +7,7 @@ local ID = game.GameId
 local gm = Supported[ID]
 
 if gm == nil then
-	warn("sh0vel prod. -> Game is not supported")
+	warn("sh0vel prod. -> Game is not supported, try the ones from the Discord.")
 	return
 end
 
