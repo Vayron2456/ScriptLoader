@@ -1,6 +1,6 @@
 local Supported = {
-	[6504986360] = "https://raw.githubusercontent.com/RecryDv/sh0velprod/refs/heads/main/bgsi.lua",
-        [7436755782] = "https://raw.githubusercontent.com/RecryDv/sh0velprod/refs/heads/main/garden.luau"
+	[85896571713843] = "https://raw.githubusercontent.com/RecryDv/sh0velprod/refs/heads/main/bgsi.lua",
+        [16732694052] = "https://raw.githubusercontent.com/RecryDv/sh0velprod/refs/heads/main/garden.luau"
 }
 
 local ID = game.GameId
